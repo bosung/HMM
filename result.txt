@@ -1,0 +1,76 @@
+﻿밥
+ 1. 밥/NNG
+ 2. 밥/NNP
+먹었니?
+ 1. 먹/VV+었/EP+니/EF+?/SF
+ 2. 먹/VX+었/EP+니/EF+?/SF
+ 3. 먹/VV+었/EP+니/NNG+?/SF
+ 4. 먹/VX+었/EP+니/NNG+?/SF
+ 5. 먹/VV+어/EC+ㅆ/EP+니/EF+?/SF
+ 6. 먹/VX+어/EC+ㅆ/EP+니/EF+?/SF
+
+오늘
+ 1. 오늘/NNG
+ 2. 오늘/MAG
+ 3. 오늘/NNP
+ 4. 오/EC+늘/MAG
+ 5. 오/IC+늘/MAG
+ 6. 오/NNG+늘/MAG
+ 7. 오/EC+느/NP+ㄹ/JKO
+ 8. 오/NNP+느/NP+ㄹ/JKO
+ 9. 오/IC+느/NP+ㄹ/JKO
+10. 오/EC+느/NNG+ㄹ/JKO
+11. 오/NR+느/NNG+ㄹ/JKO
+12. 오/NNP+느/NNG+ㄹ/JKO
+13. 오/EP+느/NNG+ㄹ/JKO
+14. 오/NNG+느/NNG+ㄹ/JKO
+날씨가
+ 1. 날씨/NNG+가/JKS
+ 2. 날씨/NNG+가/JKC
+ 3. 날씨/NNG+가/NNG
+ 4. 날씨/NNG+가/XSN
+ 5. 날씨/NNG+가/XPN
+ 6. 날씨/NNG+가/VV+아/EC
+ 7. 나/VV+ㄹ/ETM+씨/NNB+가/JKS
+ 8. 날/NNG+씨/NNB+가/JKS
+ 9. 날/XPN+씨/NNB+가/JKS
+10. 나/VV+ㄹ/ETM+씨/NNG+가/JKS
+11. 날/NNG+씨/NNG+가/JKS
+12. 날/XPN+씨/NNG+가/JKS
+13. 나/VV+ㄹ/ETM+씨/NNP+가/JKS
+14. 날/XPN+씨/NNP+가/JKS
+15. 나/VV+ㄹ/ETM+씨/NNB+가/JKC
+16. 날/NNG+씨/NNB+가/JKC
+17. 날/XPN+씨/NNB+가/JKC
+18. 나/VV+ㄹ/ETM+씨/NNG+가/JKC
+19. 날/NNG+씨/NNG+가/JKC
+20. 날/XPN+씨/NNG+가/JKC
+21. 나/VV+ㄹ/ETM+씨/NNP+가/JKC
+22. 날/XPN+씨/NNP+가/JKC
+23. 나/VV+ㄹ/ETM+씨/NNB+가/NNG
+24. 날/NNG+씨/NNB+가/NNG
+25. 날/XPN+씨/NNB+가/NNG
+26. 나/VV+ㄹ/ETM+씨/NNG+가/NNG
+27. 날/NNG+씨/NNG+가/NNG
+28. 날/XPN+씨/NNG+가/NNG
+29. 나/VV+ㄹ/ETM+씨/NNP+가/NNG
+30. 날/XPN+씨/NNP+가/NNG
+31. 나/VV+ㄹ/ETM+씨/NNB+가/XSN
+32. 날/NNG+씨/NNB+가/XSN
+
+참
+ 1. 참/MAG
+ 2. 참/NNG
+ 3. 참/IC
+ 4. 참/NNB
+ 5. 차/VV+ㅁ/ETN
+ 6. 차/VA+ㅁ/ETN
+좋아요.
+ 1. 좋/VA+아요/EF+./SF
+ 2. 좋/VV+아요/EF+./SF
+ 3. 좋/VA+아/EC+요/JX+./SF
+ 4. 좋/VV+아/EC+요/JX+./SF
+ 5. 좋/VA+아/EF+요/JX+./SF
+ 6. 좋/VV+아/EF+요/JX+./SF
+ 7. 좋/VA+아/EC+요/NNG+./SF
+ 8. 좋/VV+아/EC+요/NNG+./SF
