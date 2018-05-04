@@ -1,4 +1,9 @@
 def read_train_data(data_path):
+    """
+    read and parse train data
+    :param data_path:
+    :return: list of tags
+    """
     data = list()
     f = open(data_path, "r", encoding='utf-8')
     start_sentence = True
